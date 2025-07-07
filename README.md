@@ -1,3 +1,4 @@
+![Project Banner](banner.png)
 # Heart Disease Prediction using SVM
 
 A Python-based classification model for predicting heart disease using **Support Vector Machine (SVM)**, developed as part of a university task during my Artificial Intelligence studies.
